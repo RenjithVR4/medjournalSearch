@@ -1,0 +1,40 @@
+.top_20{
+        margin-top: 20px;
+}
+
+.top_50{
+        margin-top: 50px;
+}
+
+.bottom_20{
+        margin-bottom: 20px;
+}
+
+label{
+        font-weight: 600;
+}
+
+.abstract{
+        text-align: justify;
+}
+
+.title{
+        margin-top: 20px;
+}
+
+.authors{
+        margin-top:20px;
+}
+
+audio{
+        height: 36px;
+}
+
+.save{
+        width:120px;
+}
+
+.abstractContent{
+       word-wrap: break-word;
+       white-space: pre-wrap;
+}

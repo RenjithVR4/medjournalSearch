@@ -1,0 +1,26 @@
+{
+  "name": "medjournal",
+  "version": "1.0.0",
+  "description": "Med journal is a MEAN web application related to medical journals.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Renjith VR",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.222.1",
+    "body": "^5.1.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.2.0",
+    "mongoose": "^5.0.6",
+    "nodemon": "^1.15.0",
+    "simple-oauth2": "^1.5.2",
+    "xml2json": "^0.11.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.0"
+  }
+}
